@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/devpandaops/plutonn/issues"
   },
-  "homepage": "https://github.com/devpandaops/plutonn#readme"
+  "homepage": "https://github.com/devpandaops/plutonn#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
